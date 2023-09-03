@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio CardápioElas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <img src="ACARAJÉ.jpg" alt="Sweet Menu" />
+    </header>
+    <main>
+      <section class="Comida Baiana menu">
+        <div>
+          <h2>
+            <abbr title="Acará">Acarajé</abbr>
+          </h2>
+          <ul square>
+            <li>Acarajé c/ camarão ..................... R$12,00</li>
+            <li>Acarajé s/ camarão ....................... R$10,00</li>
+            <li>Porção unidas ......................... R$15,00</li>
+          </ul>
+        </div>
+        <div><img src="Acarajé" alt="" /></div>
+      </section>
+      <section class="MENU ABARÁ">
+        <div>
+          <h2>
+            <abbr title="Abará">Abará</abbr>
+          </h2>
+          <ul>
+            <li>Abará c/ camarão..................... R$10,00</li>
+            <li>Abará s/ camarão....................... R$9,00</li>
+	    <li>Porção unidas ......................... R$15,00</li>
+            
+          </ul>
+        </div>
+        <div><img src="Abará" alt="" /></div>
+      </section>
+      </section>
+    </main>
+    <footer>
+      <p>@COMIDABAIANABILIN</p>
+      <p>Fone: (75)1235-6789</p>
+    </footer>
+  </body>
+</html>
